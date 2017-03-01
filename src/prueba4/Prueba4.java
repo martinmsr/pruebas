@@ -16,6 +16,9 @@ public class Prueba4 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        printt objeto=new printt();
+        objeto.mostrar();
+        
     }
     
 }
